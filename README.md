@@ -1,2 +1,2 @@
 # CarPrid
-It is used to predict the price of refurbished cars to resolve resale problems.
+Predicts the price of refurbished cars to resolve resale problems.
