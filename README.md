@@ -1,2 +1,2 @@
-# CarPrid
-Predicts the price of refurbished cars to resolve resale problems.
+# CarPrid - Used Car Price Prediction
+Applied regression algorithms and image data integration to improve pricing accuracy.
